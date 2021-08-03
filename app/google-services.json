@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267525587533",
+    "project_id": "notes-and-todo",
+    "storage_bucket": "notes-and-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267525587533:android:d7cbd96c3a74acd9895204",
+        "android_client_info": {
+          "package_name": "com.example.notestodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267525587533-88l2knig1lr2argipgv248icshrekhde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCocJXL4ZY4JUmz9SCaTxASc13GaXgGPDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267525587533-88l2knig1lr2argipgv248icshrekhde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
