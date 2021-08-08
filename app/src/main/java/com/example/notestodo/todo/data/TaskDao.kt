@@ -1,6 +1,7 @@
 package com.example.notestodo.todo.data
 
 import androidx.room.*
+import com.example.notestodo.SortOrder
 import kotlinx.coroutines.flow.Flow
 
 @Dao

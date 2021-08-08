@@ -5,8 +5,8 @@ import com.example.notestodo.ADD_NOTE_RESULT_OK
 import com.example.notestodo.EDIT_NOTE_RESULT_OK
 import com.example.notestodo.notes.data.Notes
 import com.example.notestodo.notes.data.NotesDao
-import com.example.notestodo.todo.data.PreferencesManager
-import com.example.notestodo.todo.data.SortOrder
+import com.example.notestodo.PreferencesManager
+import com.example.notestodo.SortOrder
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.combine

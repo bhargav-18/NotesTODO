@@ -3,8 +3,8 @@ package com.example.notestodo.todo.ui.tasks
 import androidx.lifecycle.*
 import com.example.notestodo.ADD_TASK_RESULT_OK
 import com.example.notestodo.EDIT_TASK_RESULT_OK
-import com.example.notestodo.todo.data.PreferencesManager
-import com.example.notestodo.todo.data.SortOrder
+import com.example.notestodo.PreferencesManager
+import com.example.notestodo.SortOrder
 import com.example.notestodo.todo.data.Task
 import com.example.notestodo.todo.data.TaskDao
 import dagger.hilt.android.lifecycle.HiltViewModel

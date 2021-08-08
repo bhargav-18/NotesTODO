@@ -18,7 +18,7 @@ import com.example.notestodo.notes.data.Notes
 import com.example.notestodo.notes.ui.note.NotesViewModel.NotesEvent.NavigateToAddNoteScreen
 import com.example.notestodo.notes.util.exhaustive
 import com.example.notestodo.notes.util.onQueryTextChanged
-import com.example.notestodo.todo.data.SortOrder
+import com.example.notestodo.SortOrder
 import com.google.android.material.snackbar.Snackbar
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collect

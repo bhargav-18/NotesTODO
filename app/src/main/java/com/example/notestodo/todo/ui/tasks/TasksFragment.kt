@@ -24,7 +24,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.notestodo.R
 import com.example.notestodo.databinding.FragmentTasksBinding
 import com.example.notestodo.todo.AlarmReceiver
-import com.example.notestodo.todo.data.SortOrder
+import com.example.notestodo.SortOrder
 import com.example.notestodo.todo.data.Task
 import com.example.notestodo.todo.util.exhaustive
 import com.example.notestodo.todo.util.onQueryTextChanged

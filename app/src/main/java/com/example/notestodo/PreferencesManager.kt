@@ -1,4 +1,4 @@
-package com.example.notestodo.todo.data
+package com.example.notestodo
 
 import android.content.Context
 import androidx.datastore.core.DataStore
