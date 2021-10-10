@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/fragment_add_edit_task.xml" value="0.20102564102564102" />
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/fragment_register.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/fragment_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/fragment_tasks.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/layout/nav_header.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17685185185185184" />
         <entry key="..\:/Users/Bhargav Joshi/AndroidStudioProjects/NotesTODO/app/src/main/res/menu/side_nav_menu.xml" value="0.20416666666666666" />
